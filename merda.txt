@@ -1,0 +1,103 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,PT: FOX News
+http://leadpro.pt:25461/live/asdf/asdf/416.ts
+#EXTINF:-1,PT: EuroNews
+http://leadpro.pt:25461/live/asdf/asdf/417.ts
+#EXTINF:-1,PT: Record News
+http://leadpro.pt:25461/live/asdf/asdf/316.ts
+#EXTINF:-1,PT: TVE Internacional
+http://leadpro.pt:25461/live/asdf/asdf/312.ts
+#EXTINF:-1,PT: CANAL ANGELUS TV
+http://leadpro.pt:25461/live/asdf/asdf/398.ts
+#EXTINF:-1,PT: CNBC Europe
+http://leadpro.pt:25461/live/asdf/asdf/295.ts
+#EXTINF:-1,PT: Deutsche Welle
+http://leadpro.pt:25461/live/asdf/asdf/293.ts
+#EXTINF:-1,PT: France 24
+http://leadpro.pt:25461/live/asdf/asdf/313.ts
+#EXTINF:-1,PT: KURIAKOS TV FHD
+http://leadpro.pt:25461/live/asdf/asdf/399.ts
+#EXTINF: -1, PT: M6
+http://leadpro.pt:25461/live/asdf/asdf/307.ts
+#EXTINF: -1, PT: MEZZO LIVE FHD
+http://leadpro.pt:25461/live/asdf/asdf/269.ts
+#EXTINF: -1, PT: NBA TV
+http://leadpro.pt:25461/live/asdf /asdf/333.ts
+#EXTINF: -1, PT: RTL
+http://leadpro.pt:25461/live/asdf/asdf/308.ts
+#EXTINF: -1, PT: SANTUARIO FATIMA
+http: // leadpro. pt: 25461 / live / asdf / asdf / 397.ts
+#EXTINF: -1, PT: SBT BRASIL
+http://leadpro.pt:25461/live/asdf/asdf/315.ts
+#EXTINF: -1, PT: SUPER RTL
+http://leadpro.pt:25461/live/asdf/asdf/309.ts
+#EXTINF: -1, PT: TPA INTERNATIONAL
+http://leadpro.pt:25461/live/asdf/asdf/314.ts
+#EXTINF:-1,PT: Trace TV
+http://leadpro.pt:25461/live/asdf/asdf/272.ts
+#EXTINF:-1,PT: TV Galicia
+http://leadpro.pt:25461/live/asdf/asdf/310.ts
+#EXTINF:-1,PT: TV5 MONDE EUROPE
+http://leadpro.pt:25461/live/asdf/asdf/415.ts
+#EXTINF:-1,PT | AXN HD
+http://1.vip-sr.com:8090/live/selahattin/candan/11000.ts
+#EXTINF:-1,PT | Canal Panda
+http://1.vip-sr.com:8090/live/selahattin/candan/10997.ts
+#EXTINF:-1,PT | CMTV
+http://1.vip-sr.com:8090/live/selahattin/candan/11014.ts
+#EXTINF:-1,PT | Crime Investigation
+http://1.vip-sr.com:8090/live/selahattin/candan/10998.ts
+#EXTINF:-1,PT | RTP 1
+http://1.vip-sr.com:8090/live/selahattin/candan/11009.ts
+#EXTINF:-1,PT | RTP 2
+http://1.vip-sr.com:8090/live/selahattin/candan/11010.ts
+#EXTINF:-1,PT | RTP 3
+http://1.vip-sr.com:8090/live/selahattin/candan/11007.ts
+#EXTINF:-1,PT | SIC Mulher
+http://1.vip-sr.com:8090/live/selahattin/candan/11011.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+http://1.vip-sr.com:8090/live/selahattin/candan/11013.ts
+#EXTINF:-1,PT | Sport TV
+http://1.vip-sr.com:8090/live/selahattin/candan/10999.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://1.vip-sr.com:8090/live/selahattin/candan/11006.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://1.vip-sr.com:8090/live/selahattin/candan/11005.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://1.vip-sr.com:8090/live/selahattin/candan/11004.ts
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://1.vip-sr.com:8090/live/selahattin/candan/11003.ts
+#EXTINF:-1,PT | TV Series
+http://1.vip-sr.com:8090/live/selahattin/candan/11001.ts
+#EXTINF:-1,PT | TVCINE 1
+http://1.vip-sr.com:8090/live/selahattin/candan/11015.ts
+#EXTINF:-1,PT | TVCINE 2
+http://1.vip-sr.com:8090/live/selahattin/candan/11016.ts
+#EXTINF:-1,PT | TVI
+http://1.vip-sr.com:8090/live/selahattin/candan/11019.ts
+#EXTINF:-1,PT | TVI 24
+http://1.vip-sr.com:8090/live/selahattin/candan/11002.ts
+#EXTINF:-1,PT | TVi Ficcao
+http://1.vip-sr.com:8090/live/selahattin/candan/11012.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
